@@ -1,2 +1,2 @@
 # webpack_srcset
-webpack coffin  using  srcset-loader
+webpack config using  srcset-loader
